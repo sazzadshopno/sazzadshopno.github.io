@@ -1,0 +1,223 @@
+{
+  "about_me": {
+    "name": "Sazzad Hossain",
+    "nick_name": "Shopno",
+    "description": "Performance-driven and results-oriented fourth-year Computer Science and Engineering student at Institute of Science and Technology (affiliated under National University, Bangladesh) offering a pro-active approach and determination to meet all assigned goals and objectives. Effective team player with excellent analytical skills and the important ability to solve complex problems. Always looking for new ventures where I can apply my expertise, learn and evolve.",
+    "role": "Consultant, Engineer,\nSoftware Research & Engineering,\nbKash Limited",
+    "photoUrl": "https://avatars.githubusercontent.com/u/35499555"
+  },
+  "connect_with_me": {
+    "description": "I am open to any ideas of cooperation.",
+    "socials": [
+      {
+        "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/gmail.svg",
+        "title": "sazzadshopno6@gmail.com",
+        "on_tap_url": "mailto:sazzadshopno6@gmail.com"
+      },
+      {
+        "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/github.svg",
+        "title": "sazzadshopno",
+        "on_tap_url": "https://github.com/sazzadshopno"
+      },
+      {
+        "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/linkedin.svg",
+        "title": "sazzadshopno",
+        "on_tap_url": "https://www.linkedin.com/in/sazzadshopno"
+      }
+    ]
+  },
+  "work_history": [
+    {
+      "title": "Consultant, Engineer",
+      "sub_title": "bKash Limited",
+      "description": null,
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/bkash_logo.png",
+      "from_text": "Jan, 2022",
+      "to_text": "Present"
+    }
+  ],
+  "development_skill": [
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/dart.svg",
+      "title": "Dart"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/flutter.svg",
+      "title": "Flutter"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/java.svg",
+      "title": "Java"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/spring_boot.svg",
+      "title": "Spring Boot"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/javascript.svg",
+      "title": "Javascript"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/nodejs.svg",
+      "title": "NodeJS"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/python.svg",
+      "title": "Python"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/django.svg",
+      "title": "Django"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/c.svg",
+      "title": "C"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/cpp.svg",
+      "title": "C++"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/php.svg",
+      "title": "PHP"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/html5.svg",
+      "title": "HTML"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/css.svg",
+      "title": "CSS"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/jquery.svg",
+      "title": "JQUERY"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/bootstrap.svg",
+      "title": "Bootstrap"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/mysql.svg",
+      "title": "MySQL"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/mongodb.svg",
+      "title": "MongoDB"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/dynamodb.svg",
+      "title": "DynamoDB"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/firebase.svg",
+      "title": "Firebase"
+    }
+  ],
+  "software_skill": [
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/slack.svg",
+      "title": "Slack"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/github.svg",
+      "title": "Github"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/jira.svg",
+      "title": "Jira"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/confluence.svg",
+      "title": "Confluence"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/trello.svg",
+      "title": "Trello"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/photoshop.svg",
+      "title": "Photoshop"
+    },
+    {
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/illustrator.svg",
+      "title": "Illustrator"
+    }
+  ],
+  "education": [
+    {
+      "title": "Institute of Science and Technology",
+      "sub_title": "Bachelors of Computer Science and Engineering",
+      "description": null,
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/ist_logo.png",
+      "from_text": "2017",
+      "to_text": "Present"
+    },
+    {
+      "title": "Mirpur College",
+      "sub_title": "Higher Secondary Certificate",
+      "description": null,
+      "icon_path": null,
+      "from_text": "2014",
+      "to_text": "2016"
+    },
+    {
+      "title": "Harzat Shah Ali Model High School",
+      "sub_title": "Secondary School Certificate",
+      "description": null,
+      "icon_path": null,
+      "from_text": "2005",
+      "to_text": "2014"
+    }
+  ],
+  "project": [
+    {
+      "title": "IMA App",
+      "sub_title": "Android and iOS app for a network of people who Meditate and Monks",
+      "description": "IMA is an app that helps users to write journals and store their current emotions along with them. The system then analyzes the total journals and the emotions of a user and tries to relate these data to the weather, time, day, or location of the user. The result of the analysis is then presented to the user as a guide to making the mind stressless. The users can also contact appointed Monks for guidance.The app is built with Flutter, targeting both Android and iOS platforms.",
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/ima_logo.png",
+      "demo": [
+        {
+          "icon_path": "assets/icons/google_playstore.svg",
+          "on_tap_url": "https://play.google.com/store/apps/details?id=tech.imanow.ima"
+        },
+        {
+          "icon_path": "assets/icons/app_store.svg",
+          "on_tap_url": "https://apps.apple.com/us/app/ima-mindfulness-journaling/id1586935133"
+        }
+      ]
+    }
+  ],
+  "certification": [
+    {
+      "title": "ICPC DHAKA REGIONAL, 2018",
+      "sub_title": null,
+      "description": "ACM ICPC Dhaka Regional 2018 held in November 10, 2018.",
+      "icon_path": null
+    },
+    {
+      "title": "BUET IUPC, 2019",
+      "sub_title": null,
+      "description": "The contest hosted in a format similar to regular ACM-ICPC.",
+      "icon_path": null
+    },
+    {
+      "title": "MIST IUPC, 2019",
+      "sub_title": null,
+      "description": "The contest hosted in a format similar to regular ACM-ICPC.",
+      "icon_path": null
+    },
+    {
+      "title": "CHAMPION - INTRA UNIVERSITY PROGRAMMING CONTEST, 2019",
+      "sub_title": null,
+      "description": "The contest hosted in a format similar to regular ACM-ICPC.",
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/ist_logo.png"
+    },
+    {
+      "title": "ICPC DHAKA REGIONAL, 2019",
+      "sub_title": null,
+      "description": "ACM ICPC Dhaka Regional 2018 held in November 15, 2019.",
+      "icon_path": null
+    }
+  ]
+}
