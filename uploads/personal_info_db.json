@@ -178,11 +178,11 @@
       "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/ima_logo.png",
       "demo": [
         {
-          "icon_path": "assets/icons/google_playstore.svg",
+          "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/google_playstore.svg",
           "on_tap_url": "https://play.google.com/store/apps/details?id=tech.imanow.ima"
         },
         {
-          "icon_path": "assets/icons/app_store.svg",
+          "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/app_store.svg",
           "on_tap_url": "https://apps.apple.com/us/app/ima-mindfulness-journaling/id1586935133"
         }
       ]
