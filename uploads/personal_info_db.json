@@ -157,7 +157,7 @@
       "title": "Mirpur College",
       "sub_title": "Higher Secondary Certificate",
       "description": null,
-      "icon_path": null,
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/muc_logo.png",
       "from_text": "2014",
       "to_text": "2016"
     },
@@ -165,7 +165,7 @@
       "title": "Harzat Shah Ali Model High School",
       "sub_title": "Secondary School Certificate",
       "description": null,
-      "icon_path": null,
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/hsamhs_logo.png",
       "from_text": "2005",
       "to_text": "2014"
     }
