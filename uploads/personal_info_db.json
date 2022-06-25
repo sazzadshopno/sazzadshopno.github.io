@@ -193,19 +193,19 @@
       "title": "ICPC DHAKA REGIONAL, 2018",
       "sub_title": null,
       "description": "ACM ICPC Dhaka Regional 2018 held in November 10, 2018.",
-      "icon_path": null
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/icpc_2018_logo.png"
     },
     {
       "title": "BUET IUPC, 2019",
       "sub_title": null,
       "description": "The contest hosted in a format similar to regular ACM-ICPC.",
-      "icon_path": null
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/buet_logo.png"
     },
     {
       "title": "MIST IUPC, 2019",
       "sub_title": null,
       "description": "The contest hosted in a format similar to regular ACM-ICPC.",
-      "icon_path": null
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/mist_logo.png"
     },
     {
       "title": "CHAMPION - INTRA UNIVERSITY PROGRAMMING CONTEST, 2019",
@@ -217,7 +217,7 @@
       "title": "ICPC DHAKA REGIONAL, 2019",
       "sub_title": null,
       "description": "ACM ICPC Dhaka Regional 2018 held in November 15, 2019.",
-      "icon_path": null
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/icpc_2019_logo.png"
     }
   ]
 }
