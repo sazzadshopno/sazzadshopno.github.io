@@ -146,8 +146,16 @@
   ],
   "education": [
     {
+      "title": "Daffodil International University",
+      "sub_title": "Master's of Science in Computer Science and Engineering",
+      "description": null,
+      "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/diu_logo.png",
+      "from_text": "2023",
+      "to_text": "Present"
+    },
+    {
       "title": "Institute of Science and Technology",
-      "sub_title": "Bachelors of Computer Science and Engineering",
+      "sub_title": "Bachelors of Science in Computer Science and Engineering",
       "description": "CGPA: 3.50",
       "icon_path": "https://raw.githubusercontent.com/sazzadshopno/sazzadshopno.github.io/main/uploads/ist_logo.png",
       "from_text": "2017",
